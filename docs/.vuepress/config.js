@@ -29,5 +29,6 @@ module.exports = {
     '/': {
       lang: 'zh-CN'
     }
-  }
+  },
+  base: '/blog_2022'
 }
